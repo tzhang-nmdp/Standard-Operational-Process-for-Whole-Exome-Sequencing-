@@ -15,6 +15,7 @@ Output in VCF and annotated TSV/Excel formats
 Modular and customizable pipeline steps
 
 ## MultiQC metrics
-![General Statistics](https://github.com/tzhang-nmdp/Standard-Operational-Process-for-Whole-Exome-Sequencing-/blob/main/multiqc%20metrics/general%20statistics.png)
-
+![General statistics](https://github.com/tzhang-nmdp/Standard-Operational-Process-for-Whole-Exome-Sequencing-/blob/main/multiqc%20metrics/general%20statistics.png)
+![Mapping metrics](https://github.com/tzhang-nmdp/Standard-Operational-Process-for-Whole-Exome-Sequencing-/blob/main/multiqc%20metrics/Mapping%20metrics.png)
+![variant metrics](https://github.com/tzhang-nmdp/Standard-Operational-Process-for-Whole-Exome-Sequencing-/blob/main/multiqc%20metrics/Variant%20calling%20metrics.png)
 
