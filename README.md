@@ -16,3 +16,5 @@ Modular and customizable pipeline steps
 
 ## MultiQC metrics
 ![General Statistics](multiqc metrics/general statistics.png)
+
+
