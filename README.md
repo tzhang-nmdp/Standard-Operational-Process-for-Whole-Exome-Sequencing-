@@ -15,6 +15,9 @@ Output in VCF and annotated TSV/Excel formats
 Modular and customizable pipeline steps
 
 ## MultiQC metrics
+![Advanced 
+![General Statistics](multiqc metrics/general statistics.png)
+Clustering](flow-cytometry-pipeline_clustering.png)
 ![General Statistics](multiqc metrics/general statistics.png)
 
 
